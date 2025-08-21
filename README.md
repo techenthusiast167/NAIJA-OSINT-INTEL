@@ -208,7 +208,7 @@
 
 - Enter target URLs
 
-- Extract emails, social links, security headers
+- Extract emails, social links, IP addresses, Phone numbers, security headers
 
 - Entity extraction (persons, organizations, locations)
 
