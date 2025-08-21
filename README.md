@@ -41,6 +41,27 @@
     virtualenv my_temp_venv
     source my_temp_venv/bin/activate
 
+
+    
+## Tool Installation Instructions
+
+- Please follow the link below to access the tool script: https://gist.github.com/techenthusiast167/b872ac5953185e361e63ef9a08591e3e
+
+- Copy the tool script
+    
+- Open your terminal and use the following command to create a new file:  
+   **nano naija_osint_intel.py**
+
+- Paste the tool script into the file
+
+- To save and exit, press **Ctrl + O**, then **Enter**, and finally **Ctrl + X**.
+
+
+## Note:
+
+**Modules 6 and 8** of the tool require **Abuse API Keys** to function properly. To obtain your API key, visit https://www.abuseipdb.com, create an account, and navigate to the API key section. Copy your API key and paste it into the appropriate location in the tool script to ensure full functionality.
+
+
 ## Optional - make the tool executable:
 
     chmod +x naija_osint.py
